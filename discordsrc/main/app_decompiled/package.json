@@ -1,0 +1,16 @@
+{
+  "name": "discord",
+  "description": "Discord Client for Desktop - Bootstrapper",
+  "main": "app_bootstrap/index.js",
+  "private": true,
+  "dependencies": {
+    "@sentry/node": "6.0.0",
+    "mkdirp": "^0.5.1",
+    "request": "2.88.0",
+    "rimraf": "^2.6.3",
+    "yauzl": "^2.10.0"
+  },
+  "devDependencies": {
+    "devtron": "1.4.0"
+  }
+}
